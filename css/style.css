@@ -195,7 +195,7 @@ padding: 24px 0;
 .hero {
 background-color: #2e2f42;
 margin-bottom: 120px;
-padding: 120px 0;
+padding: 188px 0;
 }
 
 .hero-container {
@@ -239,24 +239,24 @@ padding: 120px 0;
 
 /* #endregion */
 
-/* #region adventures */
+/* #region advantages */
 
-.adventures {
+.advantages {
     padding: 120px 0;
 }
 
-.adventures-list {
+.advantages-list {
     display: flex;
         justify-content: space-between;
         gap: 24px;
         margin-bottom: 240px;
 }
 
-.adventures-item {
+.advantages-item {
     width: 264px;
 }
 
-.adventures-subtitle {
+.advantages-subtitle {
         font-size: 20px;
         letter-spacing: 0.02em;
         color: #2e2f42;
@@ -265,7 +265,7 @@ padding: 120px 0;
             margin-bottom: 8px;
 }
 
-.adventures-text {
+.advantages-text {
         font-size: 16px;
         letter-spacing: 0.02em;
         line-height: 1.5;
@@ -364,6 +364,7 @@ padding-top: 120px;
 .portfolio-col {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
+    border-top: none;
 }
 /* #endregion */
 
