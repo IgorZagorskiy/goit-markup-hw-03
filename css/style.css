@@ -194,7 +194,6 @@ padding: 24px 0;
 
 .hero {
 background-color: #2e2f42;
-margin-bottom: 120px;
 padding: 188px 0;
 }
 
@@ -239,11 +238,10 @@ padding: 188px 0;
 /* #region advantages */
 
 .advantages-container{
-    margin-bottom: 120px;
 }
 
 .advantages {
-    
+    padding: 120px 0;
 }
 
 .advantages-list {
@@ -254,7 +252,6 @@ padding: 188px 0;
 
 .advantages-item {
     width: 264px;
-    padding-bottom: 120px;
 }
 
 .advantages-subtitle {
@@ -277,11 +274,12 @@ padding: 188px 0;
 /* #region team */
 
 .team-container {
-    margin-bottom: 120px;
+
 }
 
 .team {
     background-color: #f4f4fd;
+    padding: 120px 0;
 }
 
 .team-title {
@@ -299,7 +297,6 @@ padding: 188px 0;
 
 .team-item {
     background-color: #FFFFFF;
-    padding-bottom: 120px;
     border-radius: 0px 0px 4px 4px;
 }
 
@@ -325,11 +322,11 @@ padding: 188px 0;
 /* #region portfolio */
 
 .portfolio {
-
+padding: 120px 0;
 }
 
 .portflio-container{
-    margin-bottom: 120px;
+    
 }
 
 .portfolio-title {
